@@ -1,0 +1,7 @@
+[gd_scene load_steps=2 format=3 uid="uid://bva8avni2pj76"]
+
+[ext_resource type="Script" path="res://Scripts/Utils/ClassCsvParser.gd" id="1_84qxo"]
+
+[node name="Class CSV Parser" type="Node"]
+script = ExtResource("1_84qxo")
+filePath = "res://Data/classesData.csv"
